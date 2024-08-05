@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.exe
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.deps.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\HienThiLoiChao\obj\Debug\net8.0\refint\HienThiLoiChao.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\HienThiLoiChao\obj\Debug\net8.0\ref\HienThiLoiChao.dll
